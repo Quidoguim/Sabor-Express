@@ -67,6 +67,17 @@ def exibir_texto(texto):
 
 
 def cadastrar_novo_restaurante():
+    ''' Essa função é responsável por cadastrar um novo restaurante. 
+
+    Inputs:
+    - nome: str
+    - tipo: str
+
+    Outputs:
+    - Adiciona um novo restaurante na lista de restaurantes.
+
+    '''
+
     exibir_texto('Cadastrar novo restaurante:')
 
     nome = input('Nome: ')
