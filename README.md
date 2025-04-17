@@ -18,7 +18,7 @@ Este repositório abriga o projeto #Sabor-Express, uma aplicação de console de
 ## Como Utilizar
 
 1. Clone este repositório: `git clone https://github.com/Quidoguim/Sabor-Express`
-2. Abra o arquivo `app.py` em seu ambiente de desenvolviemento preferido.
+2. Abra o arquivo `app.py` em seu ambiente de desenvolvimento preferido.
 
 ## Autores
 
